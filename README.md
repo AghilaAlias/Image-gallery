@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This single page app was developed using React and Redux and loads images while scrolling. Also when a user clicks on a thumbnail image, image modal window popup to show full size of the image.
 
 ## Available Scripts
 
